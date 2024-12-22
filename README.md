@@ -9,5 +9,6 @@ M4 is ARMv9.2-A, so may work, but will also support SVE and SME, which I won't c
 
 * [Base Instructions](Base%20Instructions)
 * [SIMD&FP Instructions](SIMD&FP%20Instructions)
+    * [ADDV](SIMD&FP%20Instructions/ADDV:%20Add%20across%20vector)
 * [SVE Instructions](SVE%20Instructions)
 * [SME Instructions](SME%20Instructions)

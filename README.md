@@ -11,5 +11,6 @@ M4 is ARMv9.2-A, so may work, but will also support SVE and SME, which I won't c
 * [SIMD&FP Instructions](SIMD&FP%20Instructions)
     * [ADDP (scalar)](SIMD&FP%20Instructions/ADDP%20(scalar):%20Add%20pair%20of%20elements%20(scalar))
     * [ADDV](SIMD&FP%20Instructions/ADDV:%20Add%20across%20vector)
+    * [BFCVT](SIMD&FP%20Instructions/BFCVT:%20Floating-point%20convert%20from%20single-precision%20to%20BFloat16%20format%20(scalar))
 * [SVE Instructions](SVE%20Instructions)
 * [SME Instructions](SME%20Instructions)
